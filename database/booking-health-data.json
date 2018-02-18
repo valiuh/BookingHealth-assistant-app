@@ -1,0 +1,234 @@
+{
+  "types": {
+    "General": {
+      "branches": {
+        "-K2ib4H77rj0LYewF7dP": {
+          "name": "Best Western Chiswick Palace",
+          "address": "71-73 Chiswick High Rd, Chiswick, London W4 2LS, UK",
+          "image": "https://goo.gl/e8fZKn",
+          "timeslots": {
+            "ead29486": {
+              "date": "2018-05-10T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "12b902ba": {
+              "date": "2018-05-10T15:30:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "7f149473": {
+              "date": "2018-05-10T18:20:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "461cef23": {
+              "date": "2018-05-11T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "f53f1c18": {
+              "date": "2018-05-11T14:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "82893a95": {
+              "date": "2018-05-10T13:20:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            },
+            "8eb85497": {
+              "date": "2018-05-10T16:40:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            },
+            "fa82ed59": {
+              "date": "2018-05-10T19:15:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            },
+            "d0c87662": {
+              "date": "2018-05-11T13:20:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+
+            },
+            "15dc0ec9": {
+              "date": "2018-05-11T15:50:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            }
+          }
+        },
+        "-K2ib5JHRbbL0NrztUfO": {
+          "name": "Packhorse & Talbot",
+          "address": "145 Chiswick High Rd, Chiswick, London W4 2DT, UK",
+          "image": "https://goo.gl/VG4YEY",
+          "timeslots": {
+            "461cef23": {
+              "date": "2018-05-11T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "f53f1c18": {
+              "date": "2018-05-11T14:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "82893a95": {
+              "date": "2018-05-10T13:20:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            },
+            "8eb85497": {
+              "date": "2018-05-10T16:40:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            }
+          }
+        },
+        "-K2ib62mjHh34CAUbide": {
+          "name": "The Square",
+          "address": "6-10 Bruton St, Mayfair, London W1J 6PU, UK",
+          "image": "https://goo.gl/ieV3vR",
+          "timeslots": {
+            "f53f1c18": {
+              "date": "2018-05-11T14:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "82893a95": {
+              "date": "2018-05-10T13:20:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            }
+          }
+        }
+      }
+    },
+    "Diabetic": {
+      "branches": {
+        "-K2ib62mjHh34CAUbida": {
+          "name": "Coach & Horses",
+          "address": "5 Bruton St, Mayfair, London W1J 6PT, UK",
+          "image": "https://goo.gl/anbngh",
+          "timeslots": {
+            "ead29486": {
+              "date": "2018-05-10T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "12b902ba": {
+              "date": "2018-05-10T15:30:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "7f149473": {
+              "date": "2018-05-10T18:20:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "461cef23": {
+              "date": "2018-05-11T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "f53f1c18": {
+              "date": "2018-05-11T14:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            }
+          }
+        },
+        "-K2ib62mjHh34CAUbidb": {
+          "name": "Anchor Bankside",
+          "address": "34 Park St, London SE1 9EF, UK",
+          "image": "https://goo.gl/jLe7B5",
+          "timeslots": {
+            "fa82ed59": {
+              "date": "2018-05-10T19:15:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            },
+            "d0c87662": {
+              "date": "2018-05-11T13:20:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+
+            },
+            "15dc0ec9": {
+              "date": "2018-05-11T15:50:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            }
+          }
+        },
+        "-K2ib62mjHh34CAUbfgI": {
+          "name": "The Banker",
+          "address": "Cousin Ln, London EC4R 3TE, UK",
+          "image": "https://goo.gl/wpx12X",
+          "timeslots": {
+            "ead29486": {
+              "date": "2018-05-10T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "12b902ba": {
+              "date": "2018-05-10T15:30:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            }
+          }
+        }
+      }
+    },
+    "Dentistry": {
+      "branches": {
+        "-T2ib62mjHh34CAUbida": {
+          "name": "Pret a Manger",
+          "address": "1 Great Tower St, London EC3R 5AA, UK",
+          "image": "https://goo.gl/PWGsep",
+          "timeslots": {
+            "461cef23": {
+              "date": "2018-05-11T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "f53f1c18": {
+              "date": "2018-05-11T14:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "82893a95": {
+              "date": "2018-05-10T13:20:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            },
+            "8eb85497": {
+              "date": "2018-05-10T16:40:15Z",
+              "practitioner": "Dr. Diana Kraning",
+              "image": "https://goo.gl/pz5Ru3"
+            }
+          }
+        },
+        "-T2ib62mjhH43CAUbida": {
+          "name": "The Shard",
+          "address": "32 London Bridge St, London SE1 9SG, UK",
+          "image": "https://goo.gl/H7GQ1U",
+          "timeslots": {
+            "ead29486": {
+              "date": "2018-05-10T12:50:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            },
+            "12b902ba": {
+              "date": "2018-05-10T15:30:15Z",
+              "practitioner": "Dr. James Naismith",
+              "image": "https://goo.gl/3Q9oix"
+            }
+          }
+        }
+      }
+    }
+  }
+}
