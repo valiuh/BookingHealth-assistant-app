@@ -7,7 +7,7 @@ class Conversation {
         this.firebaseAdmin = firebaseAdmin;
     }
 
-    //Intent choose-appointment-type
+    //Intent start-booking-flow
     getAppointmentsType() {
         this._getAppointmentTypes()
             .then(types => {
@@ -15,7 +15,7 @@ class Conversation {
             });
     }
 
-    //Intent appointment-type-chosen
+    //Intent chose-appointment-type
     selectAppointmentType() {
         let type = this.dialogflowApp.getArgument('appointment-type')[0];
 
