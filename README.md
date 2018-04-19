@@ -11,6 +11,8 @@ The main idea of this project is to show how to solve real life task from GP onl
 - view parts of users GP record;
 - view clinical correspondence.
 
+![alt text](https://github.com/valiuh/BookingHealth-assistant-app/blob/master/BookingHealth-Firebase.png?raw=true)
+
 ## Current tech stack:
 - [Actions on Google](https://developers.google.com/actions/extending-the-assistant)
 - [Firebase](https://firebase.google.com/): Cloud Functions and Realtime Database - for application backend logic and database
